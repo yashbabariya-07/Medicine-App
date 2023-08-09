@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Peracetamol",
+      "description": "headaches",
+      "price": 15,
+      "color": "blue",
+      "image": "https://c8.alamy.com/comp/EBY4RR/pack-of-tesco-paracetamol-500mg-tablets-isolated-on-white-background-EBY4RR.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Volister Gel",
+      "description": "Pain Killer",
+      "price": 25,
+      "color": "red",
+      "image": "https://5.imimg.com/data5/II/PL/MY-8437804/volistar-gel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lemolate ",
+      "description": "Cold & cough",
+      "price": 20,
+      "color": "green",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/uk2nmn56f1ef8o3chtcu.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lopox",
+      "description": "Diarrhea & Vomiting",
+      "price": 30,
+      "color": "orange",
+      "image": "https://www.indimedo.com/public/product/1681454705LopoxLopox%202mg%20Tablet.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tenlivent-M 500",
+      "description": "diabetes Type 2",
+      "price": 120,
+      "color": "purple",
+      "image": "https://meds.myupchar.com/23494/Tenlivent-M_500_Tab.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Clinsol Gel",
+      "description": "treat pimples, blackheads and whiteheads",
+      "price": 70,
+      "color": "lemone",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/10/PG/NQ/EO/149380497/clinsol-gel-day-cream-15-sdl498281329-1-af255.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Clocip Powder",
+      "description": "Anti Fungal",
+      "price": 150,
+      "color": "black",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/266914/clocip-anti-fungal-powder-of-100-gm-3-1671740823.jpg"
+    }
+  ]
+}
