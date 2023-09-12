@@ -36,14 +36,14 @@ class _LoginPageState extends State<LoginPage> {
             key: _formkey,
             child: Column(
               children: [
-                Image.asset("assets/images/login.png",
+                Image.network("https://uxdt.nic.in/wp-content/uploads/2021/01/pradhan-mantri-jan-aushadhi-logo-01.jpg?x91531",
                   fit: BoxFit.cover,
                 ),
                 SizedBox(
                   height: 20,
                 ),
                 Text(
-                  "Welcome Guyss!!!",
+                  "Welcome Customer!!!",
                   style: TextStyle(
                     fontSize: 25,
                     fontWeight: FontWeight.bold,
@@ -84,7 +84,7 @@ class _LoginPageState extends State<LoginPage> {
                             return "Password cannot empty ";
                           }
                           else if (value.length < 6) {
-                            return "Password Mustbe Atleast 6 Word";
+                            return "Password Must Be Atleast 6 Word";
                           }
                           return null;
                         },
@@ -102,7 +102,7 @@ class _LoginPageState extends State<LoginPage> {
                       Material(
                         color: Colors.amberAccent,
                         borderRadius: BorderRadius.circular(
-                            changeButton ? 50 : 8),
+                            changeButton ? 30 : 8),
                         child: InkWell(
                           onTap: () => moveToHome(context),
                           child: AnimatedContainer(

@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class MyTheme{
   static ThemeData lightTheme(BuildContext context) => ThemeData(primarySwatch: Colors.amber,
-      fontFamily: GoogleFonts.lato().fontFamily ,
+      fontFamily: GoogleFonts.poppins().fontFamily ,
       primaryTextTheme: GoogleFonts.latoTextTheme(),
       appBarTheme: AppBarTheme(
         color: Colors.white,
@@ -14,4 +14,8 @@ class MyTheme{
 
   static ThemeData darkTheme(BuildContext context) => ThemeData(
     brightness: Brightness.dark,);
+
+  static Color blue = Colors.blueAccent;
+  static Color cream = Color(0xfff5f5f5);
+  static Color creem = Colors.white38;
 }

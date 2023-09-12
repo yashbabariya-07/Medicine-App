@@ -3,58 +3,93 @@
     {
       "id": 1,
       "name": "Peracetamol",
-      "description": "headaches",
+      "description": "Headaches",
       "price": 15,
       "color": "blue",
-      "image": "https://c8.alamy.com/comp/EBY4RR/pack-of-tesco-paracetamol-500mg-tablets-isolated-on-white-background-EBY4RR.jpg"
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/6/AC/ZD/LY/122822982/85513-1-1000-500x500.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
+
+
     },
+
     {
       "id": 2,
-      "name": "Volister Gel",
+      "name": "Volini Gel",
       "description": "Pain Killer",
       "price": 25,
       "color": "red",
-      "image": "https://5.imimg.com/data5/II/PL/MY-8437804/volistar-gel.jpg"
+      "image": "https://5.imimg.com/data5/QT/HO/MY-24119759/volini-500x500.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
     },
+
     {
       "id": 3,
       "name": "Lemolate ",
       "description": "Cold & cough",
       "price": 20,
       "color": "green",
-      "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/uk2nmn56f1ef8o3chtcu.jpg"
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/uk2nmn56f1ef8o3chtcu.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
     },
+
     {
       "id": 4,
       "name": "Lopox",
       "description": "Diarrhea & Vomiting",
       "price": 30,
       "color": "orange",
-      "image": "https://www.indimedo.com/public/product/1681454705LopoxLopox%202mg%20Tablet.jpg"
+      "image": "https://www.indimedo.com/public/product/1681454705LopoxLopox%202mg%20Tablet.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
     },
+
     {
       "id": 5,
       "name": "Tenlivent-M 500",
-      "description": "diabetes Type 2",
+      "description": "Diabetes Type 2",
       "price": 120,
-      "color": "purple",
-      "image": "https://meds.myupchar.com/23494/Tenlivent-M_500_Tab.jpg"
+      "color": "black",
+      "image": "https://meds.myupchar.com/23494/Tenlivent-M_500_Tab.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
     },
+
     {
       "id": 6,
       "name": "Clinsol Gel",
-      "description": "treat pimples, blackheads and whiteheads",
+      "description": "Treat pimples, blackheads and whiteheads",
       "price": 70,
-      "color": "lemone",
-      "image": "https://5.imimg.com/data5/SELLER/Default/2022/10/PG/NQ/EO/149380497/clinsol-gel-day-cream-15-sdl498281329-1-af255.jpeg"
+      "color": "pink",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/DT/JP/IE/51504273/clindamycin-1-w-w-nicotinamide-4-w-w.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
     },
+
     {
       "id": 7,
       "name": "Clocip Powder",
       "description": "Anti Fungal",
       "price": 150,
-      "color": "black",
-      "image": "https://cdn01.pharmeasy.in/dam/products_otc/266914/clocip-anti-fungal-powder-of-100-gm-3-1671740823.jpg"
+      "color": "blue",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/266914/clocip-anti-fungal-powder-of-100-gm-3-1671740823.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
+    },
+
+    {
+      "id": 8,
+      "name": "ReFresh Drop",
+      "description": "Temporary relief of burning due to the dryness of the eyes.",
+      "price": 40,
+      "color": "red",
+      "image": "https://www.practostatic.com/practopedia-images/v3/res-750/refresh-tears-eye-drops-10ml_5cccb7e3-5261-42a2-8f69-5c0c6c86f986.JPG",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
+    },
+
+    {
+      "id": 9,
+      "name": "Cetirizine",
+      "description": "Hay fever. conjunctivitis (red, itchy eye)",
+      "price": 35,
+      "color": "green",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/6/EN/JI/SB/4646464/cetirizine-hydrochloride-tablets-i-p-.jpg",
+      "Info": "Related More Info: Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. Advances in medicines have enabled doctors to cure many diseases and save lives."
     }
   ]
 }
